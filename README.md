@@ -4,3 +4,6 @@
 #### Our research focuses on the investigation of intelligent representation and processing of spatial information as well as the examination of human strategies to acquire and organize knowledge about spatial environments.
 #### We investigate experimentally human abilities of spatial cognition and cognition of complex spatial environments. Based on these psychological findings, we develop intelligent computational systems and novel strategies for knowledge processing that are more similar to the human way of thinking.
 #### We aim at making spatial information processing more efficient and the interaction with GI software easier. Usability studies are applied to evaluate our new approaches for their usability.
+
+
+## Our Projects
