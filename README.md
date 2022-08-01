@@ -7,3 +7,4 @@
 
 
 ## Our Projects
+#### 1. The effect of orientation instructions on the recall and reuse of route and survey elements in wayfinding descriptions https://github.com/SpatialIntelligenceLab/2020_Krukar_etal_JEP.git
